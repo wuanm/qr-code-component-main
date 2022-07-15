@@ -14,7 +14,7 @@
     flex-direction: column;
     position: relative;
     max-width:320px ;
-    height: 81vh;
+    height: 500px;   /*81vh*/
     margin: 0 auto;
     background-color: #fffffd;
     border-radius: 10px;
